@@ -1,3 +1,2 @@
-🇬🇧 🇳🇿 🇦🇺 @undrscrjones most places <br>
-BIT student studying info sys/BA and cybersec <br>
-UTC+10
+ - BIT student studying info sys/BA and cybersec
+ - test123
