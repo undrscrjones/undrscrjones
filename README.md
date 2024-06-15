@@ -1,2 +1,3 @@
 - BIT student studying information systems, business analysis, and cyber security
 - This account has mostly been a dumping ground for uni projects, this should change soon-ish
+- With the exception of uni projects, stuff I work on is generally released under the 0BSD license, because I don't care 
